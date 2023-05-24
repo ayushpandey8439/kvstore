@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="vector_clock" type="mix">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/_build/dev/lib/vector_clock/ebin" />
+      <root url="file://$PROJECT_DIR$/_build/dev/lib/vector_clock/ebin" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/deps/vector_clock/lib" />
+      <root url="file://$PROJECT_DIR$/deps/vector_clock/lib" />
+    </SOURCES>
+  </library>
+</component>
